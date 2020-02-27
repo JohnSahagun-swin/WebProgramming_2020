@@ -1,0 +1,28 @@
+.header {
+    border: black;
+    border-style: dotted;
+}
+
+h1 {
+    color: red;
+    text-decoration: underline;
+    padding-left: 20PX;
+}
+
+h2{
+    color: gray;
+    padding-left: 20PX;
+    padding-left: 20PX;
+}
+.spacing{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.lists{
+    border: red;
+    border-style: solid;
+}
+
+p{
+    padding-left: 20px;
+}
