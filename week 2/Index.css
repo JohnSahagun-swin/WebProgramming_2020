@@ -1,6 +1,71 @@
+body{font-family: 'Spartan', sans-serif;
+    margin:0px;}
+
+
+
 .header
-{font-family: 'Spartan', sans-serif;
+{
+font-size: 23px;
 background-color: rgba(120, 194, 36, 0.856);
 padding: 50px;
 text-align: center;
 color: white;}
+
+.SubH{
+font-size: 20px;
+text-align: left;
+margin-left: 20px;
+margin-top: 40px;
+margin-bottom: 35px;
+margin-right: 20px;
+}
+
+.paragraph{
+    font-size: 18
+    px;
+    color:rgba(34, 33, 33, 0.815);
+    margin-left:20px;
+    margin-top: 40px;
+margin-bottom: 35px;
+margin-right: 20px;
+}
+
+.space{  
+    text-align: center;
+}
+
+button:hover, button:active {
+    background-color:rgba(120, 194, 36, 0.856);
+  }
+
+button{
+font-size: 23px;
+background-color: rgba(120, 194, 36, 0.753);
+border-style: hidden;
+padding: 10px;
+text-align: center;
+color: white;
+display: inline-block;
+text-decoration: none;
+margin-top: 20px;
+margin-right: 20px;
+}
+
+a:link, a:visited{
+    color: rgba(120, 194, 36, 0.753);
+    display: inline-block;
+    text-decoration: none;}
+
+I{
+    margin:10px;
+    margin-bottom: 500px;
+}
+
+footer{
+    color:  rgba(116, 116, 116, 0.966);
+    background-color: rgba(192, 192, 192, 0.74);
+    padding: 50px;
+    margin-top: 126px;
+    text-align: center;
+    margin-bottom: 0px;
+}
