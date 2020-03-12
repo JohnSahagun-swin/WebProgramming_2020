@@ -1,0 +1,173 @@
+
+body{font-family: 'Spartan', sans-serif;
+    margin:0px;
+background-color: rgba(61, 32, 61, 0.705);
+}
+
+.MrContent{
+    width: 900px;
+    height: 200px;
+    font-size: 30px;
+    background-color: white;
+}
+
+.date{
+    font-size: 15px;
+}
+
+a{
+    color: blueviolet;
+   font-size: 15px;
+}
+
+.Mtext{
+    padding-left: 20px;
+    padding-top: 50px;
+    text-align: start;
+}
+
+.read{
+    width: 900px;
+    height: 100px;
+    background-color: white;
+    font-size: 30px;
+    border-width: 1px;
+    border-top-style: dashed;
+    border-color: rgba(80, 75, 80, 0.788);
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    justify-content: flex-start;
+}
+.RM{
+    padding-left: 40px;
+    line-height: 100px;
+    width: 800px;
+    height: 50px;
+}
+
+.add{
+    text-align: center;
+    line-height: 100px;
+    background-color:rgba(56, 7, 56, 0.664);
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Dancing Script', cursive;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.border{
+    width: 900px;
+    height: 30px;
+    }
+    
+    
+.container {
+     display: flex;
+     height: 20vh;
+     align-items: center;
+     justify-content: center;
+    }
+
+footer{
+    color: white;
+    background-color: rgba(9, 2, 14, 0.74);
+    padding: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+p{
+    font-size: 21px;
+}
+.contacts{
+    margin-top: 30px;
+}
+
+a:link, a:visited{
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-decoration: none;}
+
+
+.container3{
+    padding:40px;
+    background-color:rgba(56, 7, 56, 0.664) ;
+}
+
+.date3{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding-right: 10px;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+h2{
+    color: white;
+   margin: 0px;
+   padding-left: 5px;
+}
+
+.P3{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    width: 66%;
+    text-align: center;
+
+}
+
+.container2{
+    padding:40px;
+    background-color:rgba(117, 45, 117, 0.664) ;
+}
+
+.date2{
+    font-size: 30px;
+    color: black;
+    padding-right: 10px;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+.P2{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    width: 66%;
+    text-align: center;
+
+}
+
+.container1{
+    padding:40px;
+    background-color:rgba(56, 7, 56, 0.664) ;
+}
+
+.date1{
+    font-size: 30px;
+    color: black;
+    padding-right: 10px;
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+
+.P1{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+    width: 66%;
+    text-align: center;
+}
